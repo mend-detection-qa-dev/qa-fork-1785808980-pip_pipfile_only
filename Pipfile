@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 requests = "==2.31.0"
 django = "==2.2.0"
-flask = "==2.2.5"
+flask = "==2.3.0"
 
 [requires]
 python_version = "3.9"
